@@ -14,4 +14,4 @@ Thirdly we hope to attract sponsors wishing to promote their projects/services w
 
 The possibility also exists for featured sponsors to award bonus tokens to users who complete their survey questions.
 
-The Idea is to make this an opensource project and attract other comunity enthusiasts to help develop this project.
+The idea is to make this an opensource project and attract other comunity enthusiasts to help develop this project.
